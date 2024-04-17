@@ -45,36 +45,43 @@ c = true
 //1. realize a operação: a && b
 resultado = a && b
 alert(resultado)
+
 //2. realize a operação: b && c
 resultado = b && c
 alert(resultado)
+
 //3. realize a operação: a && c
 resultado = a && c
 alert(resultado)
+
 //4. realize a operação: a && b && c
 resultado = a && b && c
 alert(resultado)
+
 //1. realize a operação: a || b
 resultado = a || b
 alert(resultado)
+
 //2. realize a operação: b || c
 resultado = b || c
 alert(resultado)
+
 //3. realize a operação: a || c
 resultado = a || c
 alert(resultado)
+
 //4. realize a operação: a || b || c
 resultado = a || b || c
 alert(resultado) */
 
 //declara variaveis
-let nome 
+/*let nome 
 let anonascimento 
 let anoatual 
 let idade 
 let maiordeidade
 let idade2050
-//calcula variaveis
+//
 nome = prompt ("Digite seu nome:")
 anonascimento = prompt ("Digite seu ano de nascimento:")
 anoatual = prompt ("digite o ano atual:")
@@ -86,4 +93,5 @@ idade2050 = 2050 - anonascimento
 alert(nome)
 alert(idade)
 alert(maiordeidade)
-alert(idade2050)
+alert(idade2050) */
+
