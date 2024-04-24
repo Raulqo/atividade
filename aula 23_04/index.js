@@ -45,12 +45,12 @@ if (num1 > num2){
 pokemon = prompt("Digite seu primeiro pokemon")
 switch(pokemon){
     case 'Bulbasauro':
-     alert(`planta e veneno!!!`)
+     alert('planta e veneno!!!')
     break
-    case(`Squirtle`):
+    case('Squirtle'):
      alert("agua!!!")
     break
-    case 'Charmander':
+    case ('Charmander'):
      alert ("fogo!!!")
     break
     default:
@@ -77,16 +77,27 @@ if ( idade >= maiorIdade){
     alert("Você não pode dirigir!!")
 }*/
 
-let turno1 = prompt("Você estuda de manhã?")
+//turnos
+/*let turno1 = prompt("Você estuda de manhã?")
 let turno2 = prompt("Você estuda de tarde?")
 let turno3 = prompt("Você estuda de noite?")
-if ("turno1 == sim") ("turno2 == não") ("turno3 == não"){
+if ((turno1 == "sim") && (turno2 == "não") && (turno3 == "não")){
     alert("Bom dia!!!") 
-} else if ("turno1 == Não") ("turno2 == Sim") ("turno3 == não") {
+} else if ((turno1 == "Não") && (turno2 == "Sim") && (turno3 == "não")) {
     alert("Boa Tarde!!!")
-} else if ("turno1 == Não") ("turno2 == não") ("turno3 == Sim") {
+} else if ((turno1 == " Não") (turno2 == "não") (turno3 == "Sim")) {
     alert("boa noite!!!")
-}
+}*/
 
+ /*/let generofilme
+ let preçofilme
 
+ generofilme = prompt("digite o genero do filme:")
+ preçofilme = prompt("digite o preço do filme:")
+generofilme = generofilme.toUpperCase()
 
+if ((generofilme == "FANTASIA") && (preçofilme < 15)){
+    alert(`bom filme!!!`)
+} else {
+    alert(`Escolha outro filme!!!`)
+}*/
