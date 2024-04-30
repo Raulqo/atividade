@@ -70,4 +70,3 @@ let profissao = prompt ("Digite a sua profissão:")
 parametros(nome,idade,cidade,profissao)
 
 
-
